@@ -31,11 +31,11 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
-#HEROKU_API_KEY = getenv("HEROKU_API_KEY",None)
+HEROKU_API_KEY = getenv("HEROKU_API_KEY",None)
 
 BOT_ID = "@Cheemsmusic_bot"
 
-#HEROKU_APP_NAME = getenv("HEROKU_APP_NAME",None)
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME",None)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
