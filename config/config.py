@@ -18,28 +18,24 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH")
-
-BOT_TOKEN = getenv("BOT_TOKEN")
-
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+API_ID=3430669 # get this value from my.telegram.org
+API_HASH="87f99d86b7709f2692175d4d9ad1a5be" # get this value from my.telegram.org
+BOT_TOKEN="5698913565:AAHx70OwOrtRyTMFXdrnN6pfUue9sLpMTHM" # get this value from @Botfather
+MONGO_DB_URI="mongodb+srv://Blackshinigaami:Anonymous99@cluster0.aiufg.mongodb.net/?retryWrites=true&w=majority" # get this value from mongodb.com
+LOG_GROUP_ID=-1001280854480 # get this value from in your log group 
+MUSIC_BOT_NAME="Cheems" # your music bot name 
+STRING_SESSION="BQBwpsFGCT7subiO87gbqhOTtaJSOeVGU8W2YaaNrP67bUCx3bPVrfqiChIuYPhdG7mJhg6zDiI8lDunKcpVntMUPHiBu-LPWIVrLJhgMmJaQUE2toIqhkDxwOuoQk-x_3PVRAOeWpQJNVRQhTEhkZlMMrtLM-DXNQ9lHKptGfrm8-nMyF0zzuSHGv9hYU50S4nA8Mo7SpSlqaBtoPzw7tcPZK9JvkU7pnJf4Jr5hiH1166ssUKGqzNfE3_7Y6uf62j1Nazhn4K5luEUB12qB_XYKore24RwO08Gb9HQ6S2ScJ5tXeinrLxYt_SrQtRctwBOJnYMiwOTfcSbxvCnQtL_Wi0P6AA"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
-
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
-
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
-
 OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+#HEROKU_API_KEY = getenv("HEROKU_API_KEY",None)
 
-BOT_ID = getenv("BOT_ID")
+BOT_ID = "@Cheemsmusic_bot"
 
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+#HEROKU_APP_NAME = getenv("HEROKU_APP_NAME",None)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
