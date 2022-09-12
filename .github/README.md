@@ -125,10 +125,11 @@
 
 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ᴛʜᴇsᴇ ᴀᴍᴀᴢɪɴɢ ᴘʀᴏᴊᴇᴄᴛs/ᴘᴇᴏᴘʟᴇ ᴡʜɪᴄʜ/ᴡʜᴏ ʜᴇʟᴘᴇᴅ :
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Dr Asad Ali](https://t.me/Dr_Asad_Ali)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
-- [Dr_Asad_Ali](https://t.me/Dr_Asad_Ali)
+
 
 [![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TheTeamAlexa/AlexaMusic&envs=STRING_SESSION,BOT_TOKEN,MUSIC_BOT_NAME,API_ID,API_HASH,OWNER_ID,DURATION_LIMIT,AUTO_LEAVING_ASSISTANT,MONGO_DB_URI,START_IMG_URL,PING_IMG_URL,OWNER_ID,UPSTREAM_BRANCH,UPSTREAM_REPO,LOG_GROUP_ID,SUPPORT_CHANNEL,SUPPORT_GROUP,GIT_TOKEN)
