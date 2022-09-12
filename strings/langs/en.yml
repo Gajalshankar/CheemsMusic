@@ -233,7 +233,7 @@ stream_4 : "» **sᴛᴀʀᴛᴇᴅ ᴩʟᴀʏɪɴɢ** «\n\n📌 **ᴛɪᴛʟ�
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : " ᴄʟᴏsᴇ "
+CLOSE_BUTTON  : "🗑️ ᴄʟᴏsᴇ "
 CLOSEMENU_BUTTON  : "🗑️ ᴄʟᴏsᴇ "
 BACK_BUTTON : " ◀️ Back"
 UNBAN_BUTTON : "• ᴜɴʙᴀɴ •"
@@ -248,17 +248,17 @@ S_B_3 : "sᴜᴘᴘᴏʀᴛ 💌"
 S_B_4 : "🌟 ᴄʜᴀɴɴᴇʟ"
 S_B_5 : " ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕"
 S_B_6 : " ʏᴏᴜᴛᴜʙᴇ 💵"
-S_B_7 : " ᴏᴡɴᴇʀ "
+S_B_7 : " ᴏᴡɴᴇʀ 😁"
 S_B_8 : " ʜᴇʟᴩ 🤔"
 
 #Help 
-H_B_1 : "👥 ᴀᴅᴍɪɴ 👥"
-H_B_2 : "▶️ ᴘʟᴀʏ ▶️"
-H_B_3 : "🤖 ʙᴏᴛ 🤖"
-H_B_4 : "🐼 ᴇxᴛʀᴀ 🐼"
-H_B_5 : "❎ ᴄʟᴏsᴇ "
-H_B_6 : " sᴜᴅᴏ "
-H_B_7 : " ᴍᴏᴅᴜʟᴇ "
+H_B_1 : " ᴀᴅᴍɪɴ 👥"
+H_B_2 : " ᴘʟᴀʏ ▶️"
+H_B_3 : " ʙᴏᴛ 🤖"
+H_B_4 : " ᴇxᴛʀᴀ 🐼"
+H_B_5 : " ❎ ᴄʟᴏsᴇ"
+H_B_6 : " sᴜᴅᴏ  🤓"
+H_B_7 : " ᴍᴏᴅᴜʟᴇ 📚"
 
 
 #PlayMode
@@ -267,15 +267,22 @@ PM_B_2 : "ɪɴʟɪɴᴇ ᴍᴀʀᴋᴜᴘ"
 PM_B_3 : "ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ"
 
 #Play
-P_B_1 : "🎧 ᴀᴜᴅɪᴏ 🎧"
-P_B_2 : "❤  ᴠɪᴅᴇᴏ ❤"
-P_B_3 : "🖤 ʟɪᴠᴇ 🖤"
-P_B_4 : "❤️‍🩹 ᴘʟᴀʏʟɪsᴛ ❤️‍🩹"
+P_B_1 : " ᴀᴜᴅɪᴏ 🎧"
+P_B_2 : " ᴠɪᴅᴇᴏ 🎥"
+P_B_3 : " ʟɪᴠᴇ ❤"
+P_B_4 : " ᴘʟᴀʏʟɪsᴛ ❤️‍🩹"
+
+#Generalize
+THUMBNAIL_NAME : " Cheems "
+THUMBNAIL_POWERED_BY : " Cheems "
+THUMBNAIL_ABOVE_LINE : " Music Bot "
+OWNER_LINK : "https://t.me/Cheemsland"
+SUPPORT_CHANNEL : "https://t.me/All_Ultroid_plugin"
 
 #Playlist
 PL_B_1 : "🎶 ᴘʟᴀʏʟɪsᴛ"
-PL_B_2 : "😁 ᴀᴅᴅ ᴛᴏ ᴘʟᴀʏʟɪsᴛ"
-PL_B_3 : "💎 ᴄᴘᴀɴᴇʟ︎"
+PL_B_2 : " ᴀᴅᴅ ᴛᴏ ᴘʟᴀʏʟɪsᴛ ➕"
+PL_B_3 : " ᴄᴘᴀɴᴇʟ︎ 💎"
 PL_B_4 : "🎧 ᴘʟᴀʏ ᴍᴏᴅᴇ"
 PL_B_5 : "🗑 ᴅᴇʟᴇᴛᴇ ᴡʜᴏʟᴇ ᴘʟᴀʏʟɪsᴛ"
 PL_B_6 : "🗑 ᴅᴇʟᴇᴛᴇ ᴘʟᴀʏʟɪsᴛ"
@@ -316,8 +323,8 @@ ST_B_27 : "🧑‍🚀 sᴜɢɢᴇsᴛɪᴏɴ ᴍᴏᴅᴇ"
 
 #Song
 SG_B_1 : "๏ ᴄʟɪᴄᴋ ʜᴇʀᴇ ๏"
-SG_B_2 : "🎧 ᴀᴜᴅɪᴏ 🎧"
-SG_B_3 : "🎥 ᴠɪᴅᴇᴏ 🎥"
+SG_B_2 : " ᴀᴜᴅɪᴏ 🎧"
+SG_B_3 : " ᴠɪᴅᴇᴏ 🎥"
 
 #Stats
 SA_B_1 : "📢 ᴛᴏᴘ 10 ᴄʜᴀᴛs"
