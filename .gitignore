@@ -1,6 +1,6 @@
 .env
 .cache
-randilogs.txt
+Cheemsmusiclogs.txt
 .DS_Store
 *.session
 raw_files/
