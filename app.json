@@ -1,7 +1,7 @@
 {
-    "name": "Alexa Music Bot",
-    "description": "Alexa Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/798b7275e58d09ac6b095.jpg",
+    "name": "Cheems x Music Bot",
+    "description": "Cheems x Music Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://graph.org/file/8ba761b690a55bfdeba62.png",
     "keywords": [
     "python3",
     "telegram",
@@ -39,8 +39,8 @@
         "required": false
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "乛𝘼𝙇𝙀𝙓𝘼🕊⃝🦋⁪⁬",
+        "description": "A name for your Music Bot. You can use special characters ",
+        "value": "乛Cheems⁪⁬",
         "required": true
       },
       "OWNER_ID": {
@@ -74,7 +74,7 @@
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!",
         "value": "",
         "required": true
       },
