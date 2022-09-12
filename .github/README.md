@@ -8,7 +8,7 @@
 * Multi-Language support
 
 
-<p align="center"><a href="https://t.me/Cheemsland"><img src="https://graph.org/file/8ba761b690a55bfdeba62.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/Cheemsmusic_bot"><img src="https://graph.org/file/8ba761b690a55bfdeba62.png" width="400"></a></p>
 
 <p align="center">
     <a href="https://github.com/TheTeamAlexa/AlexaMusic/issues"> <img src="https://img.shields.io/github/issues/TheTeamAlexa/AlexaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -23,7 +23,7 @@
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 
-## Features ❤️”®
+## Features ❤️
 
 - Thumbnail Support
 - Audio And Video
@@ -81,7 +81,7 @@
 - `/blocklist` - show the list of all people who's blocked for using your bot
 
 
-# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️
 
 <details>
 <summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
@@ -108,13 +108,12 @@
     
 </details>
 
-# Owner And Credit
+## Owner And Credit ❤️
     
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
-
-# ❤️ Support
+    
 <a href="https://t.me/Cheemsland"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/YukkiSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
@@ -122,7 +121,7 @@
 </details>
 
 
-## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
+## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs ❤️
 
 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ᴛʜᴇsᴇ ᴀᴍᴀᴢɪɴɢ ᴘʀᴏᴊᴇᴄᴛs/ᴘᴇᴏᴘʟᴇ ᴡʜɪᴄʜ/ᴡʜᴏ ʜᴇʟᴘᴇᴅ :
 
