@@ -1,12 +1,9 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# Copyright (C) 2021-2022 by @Cheemsland, @TheYukki, @YukkiSupport
 
-# Kanged By © @Dr_Assad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Alexa © Yukki
+# Kanged By © Cheemsland
+# Owner Cheems
+# All rights reserved.  © Yukki
 
 
 import re
@@ -30,7 +27,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 #OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
-OWNER_ID = [1512902632]
+OWNER_ID = [1512902632]  #Owner - @Cheemsland
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY",None)
 
