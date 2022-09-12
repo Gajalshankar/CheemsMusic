@@ -35,7 +35,7 @@ async def init():
         and not config.STRING5
     ):
         LOGGER("AlexaMusic").error(
-            "WTF Baby ! Atleast add a pyrogram string, How Cheap..."
+            "WTF ! Atleast add a pyrogram string, How Cheap..."
         )
     try:
         users = await get_gbanned()
@@ -56,7 +56,7 @@ async def init():
         await Alexa.stream_call("https://telegra.ph/file/b60b80ccb06f7a48f68b5.mp4")
     except NoActiveGroupCall:
         LOGGER("AlexaMusic").error(
-            "[ERROR] - \n\nHey Baby, firstly open telegram and turn on voice chat in Logger Group else fu*k off. If you ever ended voice chat in log group i will stop working and users will fu*k you up."
+            "[ERROR] - \n\nHey, firstly open telegram and turn on voice chat in Logger Group else fu*k off. If you ever ended voice chat in log group i will stop working and users will fu*k you up."
         )
         sys.exit()
     except:
@@ -68,4 +68,4 @@ async def init():
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("AlexaMusic").info("Stopping Music Bot, Bhakk Bhosdike (Gaand Maraa Tu)")
+    LOGGER("AlexaMusic").info("Stopping Music Bot ... ")
