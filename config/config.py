@@ -29,7 +29,8 @@ STRING_SESSION="BQBwpsFGCT7subiO87gbqhOTtaJSOeVGU8W2YaaNrP67bUCx3bPVrfqiChIuYPhd
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
-OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
+#OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
+OWNER_ID = [1512902632]
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY",None)
 
