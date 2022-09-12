@@ -11,12 +11,13 @@
 <p align="center"><a href="https://t.me/Cheemsland"><img src="https://graph.org/file/8ba761b690a55bfdeba62.png" width="400"></a></p>
 
 <p align="center">
-    <a href="https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://img.shields.io/github/repo-size/TheTeamAlexa/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/TheTeamAlexa/AlexaMusic/issues"> <img src="https://img.shields.io/github/issues/TheTeamAlexa/AlexaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Cheems x Music Bot , That is the greatest pleasure we have !
+> Special Thanks to [Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) and  [Alexa Music Bot](https://github.com/TheTeamAlexa/AlexaMusic) 
+
+> ⭐️ Thanks to everyone for using Cheems x Music Bot 
 
 # ⚡️ Getting Started Yukki Bot [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
@@ -45,10 +46,9 @@
 - `/play <song name>` - play song you requested
 - `/playlist` - Show now playing list
 - `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
 - `/vsong <song name>` - download videos you want quickly
-- `/lyric <song name>` - lyrics scrapper
-- `/vk <song name>` - generate song without download
+- `/search <query>` - search videos on youtube with details
+- `/lyrics <song name>` - lyrics scrapper
 
 #### Admins Only 😜
 - `/player` - open music player settings panel
