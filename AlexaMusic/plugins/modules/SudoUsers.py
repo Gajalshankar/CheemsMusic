@@ -50,7 +50,7 @@ async def ban_globally(_, message):
             for chat in chats:
                 served_chats.append(int(chat["chat_id"]))
             m = await message.reply_text(
-                f"**Alexa Is Initializing Global Ban on {user.mention}**\n\nExpected Time : {len(served_chats)}"
+                f"**Cheems Is Initializing Global Ban on {user.mention}**\n\nExpected Time : {len(served_chats)}"
             )
             number_of_chats = 0
             for sex in served_chats:
@@ -99,7 +99,7 @@ __**New Global Ban on {MUSIC_BOT_NAME}**__
             for chat in chats:
                 served_chats.append(int(chat["chat_id"]))
             m = await message.reply_text(
-                f"**Alexa Is Initializing Gobal Ban on {mention}**\n\nExpected Time : {len(served_chats)}"
+                f"**Cheems Is Initializing Gobal Ban on {mention}**\n\nExpected Time : {len(served_chats)}"
             )
             number_of_chats = 0
             for sex in served_chats:
