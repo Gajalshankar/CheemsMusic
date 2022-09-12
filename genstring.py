@@ -22,7 +22,7 @@ async def main():
     await i.start()
     ss = await i.export_session_string()
     print(
-        "\nHERE IS YOUR PYROGRAM STRING SESSION, COPY IT, DON'T SHARE IT WITH YOUR GF !\n"
+        "\nHERE IS YOUR PYROGRAM STRING SESSION, COPY IT, DON'T SHARE IT WITH ANYONE !\n"
     )
     print(f"\n{ss}\n")
 
