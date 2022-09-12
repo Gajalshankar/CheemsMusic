@@ -91,14 +91,14 @@ async def gen_thumb(videoid):
         #draw.text(
         #    (6, 6), f"Powered By:- © ALEXA & ® ROCKS", fill="Yellow", font=name_font
         #)
-        #draw.text(
-        #    (600, 150),
-        #    f"By Alexa",
-        #    fill="yellow",
-        #    stroke_width=2,
-        #    stroke_fill="green",
-        #    font=font2,
-        #)
+        draw.text(
+           (600, 150),
+           f"By {MUSIC_BOT_NAME}Land",
+           fill="white",
+           stroke_width=2,
+           stroke_fill="green",
+           font=font2,
+        )
         for line in para:
             if j == 1:
                 j += 1
@@ -139,7 +139,7 @@ async def gen_thumb(videoid):
         )
         draw.text(
             (600, 550),
-            f"Owner : Cheems",
+            f"Owner : {MUSIC_BOT_NAME}",
             fill="white",
             stroke_width=1,
             stroke_fill="white",
