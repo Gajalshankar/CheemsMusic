@@ -235,7 +235,7 @@ stream_4 : "» **sᴛᴀʀᴛᴇᴅ ᴩʟᴀʏɪɴɢ** «\n\n📌 **ᴛɪᴛʟ�
 #General Buttons
 CLOSE_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
 CLOSEMENU_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
-BACK_BUTTON : "◁"
+BACK_BUTTON : " ◁ "
 UNBAN_BUTTON : "• ᴜɴʙᴀɴ •"
 
 #Lyrics
@@ -273,7 +273,7 @@ P_B_3 : "🖤 ʟɪᴠᴇ 🖤"
 P_B_4 : "❤️‍🩹 ᴘʟᴀʏʟɪsᴛ ❤️‍🩹"
 
 #Playlist
-PL_B_1 : "🥲 ᴘʟᴀʏʟɪsᴛ 🥲"
+PL_B_1 : "🥲 ᴘʟᴀʏʟɪsᴛ"
 PL_B_2 : "🌼 ᴘʟᴀʏʟɪsᴛs"
 PL_B_3 : "💮︎ ᴄᴘᴀɴɴᴇʟ︎"
 PL_B_4 : "🎧 ᴘʟᴀʏ ᴍᴏᴅᴇ"
