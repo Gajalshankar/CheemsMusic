@@ -284,7 +284,7 @@ async def welcome(client, message: Message):
 @app.on_message(commandpro(["/alive", "Alexa"]) & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/125f531d44a9999290cac.jpg",
+        photo=f"https://graph.org/file/2ab47389abf4d3a34eead.png",
         caption=f""" \n✪ ʜᴇʟʟᴏ, CHEEMS x MUSIC BOT ɪs ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ғᴜɴᴄᴛɪᴏɴɪɴɢ ᴘʀᴏᴘᴇʀʟʏ """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🌼 Join Our Channel 💮", url=f"https://t.me/All_Ultroid_plugin")]]
