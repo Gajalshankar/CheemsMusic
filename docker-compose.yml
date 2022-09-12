@@ -21,4 +21,4 @@ services:
       STRING_SESSION: $STRING_SESSION # true
       STRING_SESSION2: $STRING_SESSION2 # true
       SUDO_USERS: $SUDO_USERS #false
-      BOT_ID: $BOT_ID # true
+      BOT_ID: $BOT_ID # true 
