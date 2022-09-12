@@ -276,8 +276,8 @@ P_B_4 : " ᴘʟᴀʏʟɪsᴛ ❤️‍🩹"
 THUMBNAIL_NAME : " Cheems "
 THUMBNAIL_POWERED_BY : " Cheems "
 THUMBNAIL_ABOVE_LINE : " Music Bot "
-OWNER_LINK : "https://t.me/Cheemsland"
-SUPPORT_CHANNEL : "https://t.me/All_Ultroid_plugin"
+OWNER_LINK : f"https://t.me/Cheemsland"
+SUPPORT_CHANNEL : f"https://t.me/All_Ultroid_plugin"
 
 #Playlist
 PL_B_1 : "🎶 ᴘʟᴀʏʟɪsᴛ"
