@@ -10,6 +10,6 @@ from config import MUSIC_BOT_NAME
 async def pmPermit(client: USER, message: Message):
     await USER.send_message(
         message.chat.id,
-        "✪ **ʜᴇʟʟᴏ, ɪ ᴀᴍ** {MUSIC_BOT_NAME}'s ᴀssɪsᴛᴀɴᴛ.\n\n✪ **ɪ ᴀᴍ ᴏɴʟʏ ᴀssɪsᴛᴀɴᴛ ᴅᴏ ɴᴏᴛ sᴘᴀᴍ ʜᴇʀᴇ ᴏᴛʜᴇʀᴡɪsᴇ ɪ ʜᴀᴠᴇ ʀɪɢʜᴛs ᴛᴏ ʙʟᴏᴄᴋ ʏᴏᴜ** 😔🥰.\n**✪ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ᴏʀ ɴᴇᴇᴅ ᴀɴʏ ʜᴇʟᴘ ᴛʜᴇɴ ᴊᴏɪɴ** @Alexa_Help",
+        "✪ **ʜᴇʟʟᴏ, ɪ ᴀᴍ** {MUSIC_BOT_NAME}'s ᴀssɪsᴛᴀɴᴛ.\n\n✪ **ɪ ᴀᴍ ᴏɴʟʏ ᴀssɪsᴛᴀɴᴛ ᴅᴏ ɴᴏᴛ sᴘᴀᴍ ʜᴇʀᴇ ᴏᴛʜᴇʀᴡɪsᴇ ɪ ʜᴀᴠᴇ ʀɪɢʜᴛs ᴛᴏ ʙʟᴏᴄᴋ ʏᴏᴜ** 😔🥰",
     )
     return
