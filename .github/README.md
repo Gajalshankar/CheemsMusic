@@ -1,5 +1,7 @@
 <h1 align="center"><b> Cheems Music Bot  </b></h1>
 
+> Special Thanks to [Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) and  [Alexa Music Bot](https://github.com/TheTeamAlexa/AlexaMusic) 
+> 
 [Cheems Music Bot](https://t.me/Cheemsmusic_bot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
@@ -15,13 +17,11 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> Special Thanks to [Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) and  [Alexa Music Bot](https://github.com/TheTeamAlexa/AlexaMusic) 
-
-> ⭐️ Thanks to everyone for using Cheems x Music Bot 
-
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
+
+> ⭐️ Thanks to everyone for using Cheems x Music Bot 
 
 ## Features ❤️
 
@@ -81,7 +81,7 @@
 - `/blocklist` - show the list of all people who's blocked for using your bot
 
 
-## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ❤️
+## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ 
 
 <details>
 <summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
@@ -108,7 +108,7 @@
     
 </details>
 
-## Owner And Credit ❤️
+## sᴜᴘᴘᴏʀᴛ
     
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
@@ -121,14 +121,14 @@
 </details>
 
 
-## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs ❤️
+## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs 
 
 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ᴛʜᴇsᴇ ᴀᴍᴀᴢɪɴɢ ᴘʀᴏᴊᴇᴄᴛs/ᴘᴇᴏᴘʟᴇ ᴡʜɪᴄʜ/ᴡʜᴏ ʜᴇʟᴘᴇᴅ :
-
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
+- [Dr_Asad_Ali](https://t.me/Dr_Asad_Ali)
 
 [![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TheTeamAlexa/AlexaMusic&envs=STRING_SESSION,BOT_TOKEN,MUSIC_BOT_NAME,API_ID,API_HASH,OWNER_ID,DURATION_LIMIT,AUTO_LEAVING_ASSISTANT,MONGO_DB_URI,START_IMG_URL,PING_IMG_URL,OWNER_ID,UPSTREAM_BRANCH,UPSTREAM_REPO,LOG_GROUP_ID,SUPPORT_CHANNEL,SUPPORT_GROUP,GIT_TOKEN)
