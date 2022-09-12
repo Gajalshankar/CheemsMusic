@@ -2,8 +2,6 @@
 
 <h4 align="center">Cheems A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-# Cheems x Music Bot <img src="https://graph.org/file/2ab47389abf4d3a34eead.png" alt="RELEASE">
-
 [Cheems Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
