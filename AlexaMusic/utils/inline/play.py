@@ -49,6 +49,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
 #             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 💌", url=_["SUPPORT_CHANNEL"],
+              InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
         ],
     ]
     return buttons
@@ -76,6 +77,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
 #             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 💌", url=_["SUPPORT_CHANNEL"],
+              InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
         ],
     ]
     return buttons
@@ -99,6 +101,7 @@ def stream_markup(_, videoid, chat_id):
                 callback_data=f"PanelMarkup None|{chat_id}",
             ),
             #             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 💌", url=_["SUPPORT_CHANNEL"],
+              InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
         ],
     ]
     return buttons
